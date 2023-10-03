@@ -12,3 +12,6 @@ Converts OVAL file to simplified format
 3. Run the main.py script
 
 `python3 main.py`
+
+# The ElementTree XML API
+https://docs.python.org/3/library/xml.etree.elementtree.html

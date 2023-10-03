@@ -1,5 +1,6 @@
+# task_r
 Converts OVAL file to simplified format
-
+# Installation
 1. Clone this repo
 
 `git clone https://github.com/xtronix2000/task_r.git`
